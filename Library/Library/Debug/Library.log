@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\орлов кирилл\desktop\library\library\src\source.cpp(11): warning C4305: аргумент: усечение из "double" в "float"
+  LINK : не найден или не выполнена сборка C:\Users\Орлов Кирилл\Desktop\Library\Debug\Library.dll при последней инкрементной компоновке; выполняется полная компоновка
+  Library.vcxproj -> C:\Users\Орлов Кирилл\Desktop\Library\Debug\Library.dll
+  Library.vcxproj -> C:\Users\Орлов Кирилл\Desktop\Library\Debug\Library.pdb (Partial PDB)
