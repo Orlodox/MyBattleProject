@@ -3,5 +3,7 @@
 #else
 #define API _declspec(dllimport)
 #endif
+
 extern "C" {
-	API float RandomAngle(); }
+	API float RandomAngle(); 
+}
