@@ -1,0 +1,338 @@
+The system is: Windows - 6.2 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 12/8/2016 4:32:45 PM.
+Project "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\3.2.3\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\3.2.3\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Done Building Project "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\3.2.3\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.68
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/3.2.3/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 12/8/2016 4:32:47 PM.
+Project "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\3.2.3\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\3.2.3\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\3.2.3\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.74
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/3.2.3/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTryCompileExec3710961315.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 12/8/2016 4:32:48 PM.
+Project "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\cmTryCompileExec3710961315.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec3710961315.dir\Debug\".
+  Creating directory "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec3710961315.dir\Debug\cmTryCom.C20000B4.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec3710961315.dir\Debug\cmTryCom.C20000B4.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec3710961315.dir\Debug\\" /Fd"cmTryCompileExec3710961315.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\testCCompiler.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24213.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec3710961315.dir\Debug\\" /Fd"cmTryCompileExec3710961315.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3710961315.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3710961315.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3710961315.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec3710961315.dir\Debug\testCCompiler.obj
+  cmTryCompileExec3710961315.vcxproj -> C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3710961315.exe
+  cmTryCompileExec3710961315.vcxproj -> C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3710961315.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec3710961315.dir\Debug\cmTryCom.C20000B4.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec3710961315.dir\Debug\cmTryCom.C20000B4.tlog\cmTryCompileExec3710961315.lastbuildstate".
+Done Building Project "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\cmTryCompileExec3710961315.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.07
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTryCompileExec2174511803.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 12/8/2016 4:32:49 PM.
+Project "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\cmTryCompileExec2174511803.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec2174511803.dir\Debug\".
+  Creating directory "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec2174511803.dir\Debug\cmTryCom.6DEBBB52.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec2174511803.dir\Debug\cmTryCom.6DEBBB52.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec2174511803.dir\Debug\\" /Fd"cmTryCompileExec2174511803.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24213.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec2174511803.dir\Debug\\" /Fd"cmTryCompileExec2174511803.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2174511803.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2174511803.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2174511803.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec2174511803.dir\Debug\CMakeCCompilerABI.obj
+  cmTryCompileExec2174511803.vcxproj -> C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2174511803.exe
+  cmTryCompileExec2174511803.vcxproj -> C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2174511803.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec2174511803.dir\Debug\cmTryCom.6DEBBB52.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec2174511803.dir\Debug\cmTryCom.6DEBBB52.tlog\cmTryCompileExec2174511803.lastbuildstate".
+Done Building Project "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\cmTryCompileExec2174511803.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.90
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTryCompileExec2601649203.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 12/8/2016 4:32:50 PM.
+Project "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\cmTryCompileExec2601649203.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec2601649203.dir\Debug\".
+  Creating directory "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec2601649203.dir\Debug\cmTryCom.F289CF0B.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec2601649203.dir\Debug\cmTryCom.F289CF0B.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTryCompileExec2601649203.dir\Debug\\" /Fd"cmTryCompileExec2601649203.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24213.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTryCompileExec2601649203.dir\Debug\\" /Fd"cmTryCompileExec2601649203.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2601649203.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2601649203.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2601649203.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec2601649203.dir\Debug\testCXXCompiler.obj
+  cmTryCompileExec2601649203.vcxproj -> C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2601649203.exe
+  cmTryCompileExec2601649203.vcxproj -> C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2601649203.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec2601649203.dir\Debug\cmTryCom.F289CF0B.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec2601649203.dir\Debug\cmTryCom.F289CF0B.tlog\cmTryCompileExec2601649203.lastbuildstate".
+Done Building Project "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\cmTryCompileExec2601649203.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.82
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTryCompileExec3907958952.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 12/8/2016 4:32:51 PM.
+Project "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\cmTryCompileExec3907958952.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec3907958952.dir\Debug\".
+  Creating directory "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec3907958952.dir\Debug\cmTryCom.DA5302ED.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec3907958952.dir\Debug\cmTryCom.DA5302ED.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTryCompileExec3907958952.dir\Debug\\" /Fd"cmTryCompileExec3907958952.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24213.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTryCompileExec3907958952.dir\Debug\\" /Fd"cmTryCompileExec3907958952.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3907958952.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3907958952.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3907958952.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec3907958952.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTryCompileExec3907958952.vcxproj -> C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3907958952.exe
+  cmTryCompileExec3907958952.vcxproj -> C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3907958952.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec3907958952.dir\Debug\cmTryCom.DA5302ED.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec3907958952.dir\Debug\cmTryCom.DA5302ED.tlog\cmTryCompileExec3907958952.lastbuildstate".
+Done Building Project "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\cmTryCompileExec3907958952.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.87
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTryCompileExec2036957162.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 12/8/2016 4:32:52 PM.
+Project "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\cmTryCompileExec2036957162.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec2036957162.dir\Debug\".
+  Creating directory "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec2036957162.dir\Debug\cmTryCom.8F2A2B51.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec2036957162.dir\Debug\cmTryCom.8F2A2B51.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTryCompileExec2036957162.dir\Debug\\" /Fd"cmTryCompileExec2036957162.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\feature_tests.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24213.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTryCompileExec2036957162.dir\Debug\\" /Fd"cmTryCompileExec2036957162.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\feature_tests.cxx
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2036957162.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2036957162.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2036957162.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec2036957162.dir\Debug\feature_tests.obj
+  cmTryCompileExec2036957162.vcxproj -> C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2036957162.exe
+  cmTryCompileExec2036957162.vcxproj -> C:/Users/kshoop/Desktop/source/rxcpp/Rx/v2/examples/awaitable/vs/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2036957162.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec2036957162.dir\Debug\cmTryCom.8F2A2B51.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec2036957162.dir\Debug\cmTryCom.8F2A2B51.tlog\cmTryCompileExec2036957162.lastbuildstate".
+Done Building Project "C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\CMakeTmp\cmTryCompileExec2036957162.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.83
+
+
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates

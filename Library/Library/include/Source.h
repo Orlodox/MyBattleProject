@@ -5,5 +5,6 @@
 #endif
 
 extern "C" {
-	API float RandomAngle(); 
+	API float RandomAngle();
+	// Install-Package rxcpp -Version 4.0.0
 }

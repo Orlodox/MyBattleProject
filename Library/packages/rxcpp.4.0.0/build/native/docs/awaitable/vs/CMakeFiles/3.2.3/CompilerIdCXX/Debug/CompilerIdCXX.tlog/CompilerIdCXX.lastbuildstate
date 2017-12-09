@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|Win32|C:\Users\kshoop\Desktop\source\rxcpp\Rx\v2\examples\awaitable\vs\CMakeFiles\3.2.3\CompilerIdCXX\|
