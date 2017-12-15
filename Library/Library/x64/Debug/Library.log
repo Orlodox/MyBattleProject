@@ -1,2 +1,4 @@
-﻿  Library.vcxproj -> C:\Users\Орлов Кирилл\Desktop\MyBattleProject\Library\x64\Debug\Library.dll
+﻿  Source.cpp
+c:\users\орлов кирилл\desktop\mybattleproject\library\library\src\source.cpp(34): warning C4305: аргумент: усечение из "double" в "float"
+  Library.vcxproj -> C:\Users\Орлов Кирилл\Desktop\MyBattleProject\Library\x64\Debug\Library.dll
   Library.vcxproj -> C:\Users\Орлов Кирилл\Desktop\MyBattleProject\Library\x64\Debug\Library.pdb (Partial PDB)
